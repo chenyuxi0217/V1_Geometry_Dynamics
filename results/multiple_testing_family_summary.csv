@@ -1,0 +1,7 @@
+fdr_scheme,fdr_family,description,n_rows_requested,n_unique_hypotheses,n_finite_tests,n_nonestimable_hypotheses,n_duplicate_rows_within_family,n_reference_rows_reusing_other_family,n_bh_below_0_05,n_by_below_0_05
+six_families_BH_BY_v2,F1_raw_condition_effects,Unaveraged: all paired and speed-adjusted condition effects,57,49,49,0,8,0,46,46
+six_families_BH_BY_v2,F2_raw_associations,"Unaveraged: scalar, rank, top-K, shape and prediction associations",333,270,270,0,63,0,2,1
+six_families_BH_BY_v2,F3_psth_condition_effects,Repeat-averaged: paired and speed-adjusted condition effects,18,18,18,0,0,0,10,8
+six_families_BH_BY_v2,F4_psth_and_common_associations,Repeat-averaged and common-support associations; exact references reused,54,18,18,0,18,18,4,1
+six_families_BH_BY_v2,F5_neuron_count_condition_effects,"Neuron count: paired and speed-adjusted effects, all N and bins",36,36,36,0,0,0,36,36
+six_families_BH_BY_v2,F6_neuron_count_associations,"Neuron count: associations, all N, bins and relationship types",108,108,108,0,0,0,0,0
